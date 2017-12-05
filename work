@@ -1,0 +1,28 @@
+
+<html 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Сайт А.Кишкевича</title>
+<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="top_bar_black"> <div id="logo_container"> <div id="logo_image"> </div>  <div id="nav_block"> 
+<a href="index.html"> <div class="nav_button"> Главная</div></a>
+<a href="AboutMe.html"> <div class="nav_button"> Обо мне</div></a>
+<a href="Work.html"><div class="nav_button"> Выпускная работа</div></a>
+
+	  </div>
+</div> </div>
+        <div id="content_container">
+       	  <div id="header">  <div id="header_content_tagline"> Меня зовут Кишкевич Артем, я магистрант механико-математического факультета БГУ. Увлекаюсь музыкой, футболом и снукером.</div>
+          
+          
+</div>
+           
+                         
+        
+</div>
+ 
+</body>
+</html>
